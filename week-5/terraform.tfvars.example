@@ -1,0 +1,4 @@
+postgres_user     = "incident_app"
+postgres_password = "password1"
+postgres_db       = "incidents"
+flask_secret_key  = "password1"
